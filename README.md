@@ -1,6 +1,6 @@
 ![Helipad Pi](https://github.com/sourceduty/Helipad_Pi/assets/123030236/e7783fff-69ee-404e-a67c-9efc89a8d7d8)
 
-### Concept
+## Concept
 
 The Helipad_Pi project aims to create an advanced, tech-equipped helipad specifically designed for drone landings. This project incorporates a variety of features to ensure safe and efficient drone operations. Key components include air temperature and humidity sensors to monitor local weather conditions, LED lights for visibility during night landings, and a homing signal to guide drones to the landing area. Additionally, the project will fetch internet-based weather forecasts for better planning, include a clock and timer for operational scheduling, and landing lasers to pinpoint the exact landing spot. A proximity sensor will enhance safety by detecting the presence of drones or other objects on the pad, while a weight scale will confirm the arrival of the drone. The entire system will be powered by a built-in powerbank for reliability, with an optional feature of a sea level meter for altitude-sensitive operations. This project combines hardware interfacing and software programming to create a comprehensive solution for drone landing and management.
 
