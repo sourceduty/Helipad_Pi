@@ -22,8 +22,7 @@ The Helipad_Pi project aims to create an advanced, tech-equipped helipad specifi
 
 - **Sea Level Meter**: Monitor water levels if located near water bodies.
 
-#![Helipad Pi](https://github.com/sourceduty/Helipad_Pi/assets/123030236/3118fdc1-9422-4b55-9ac5-d2178fb7d4fe)
-
+#
 ## Additional Feature Suggestions
 
 1. Solar Panel Integration: Equip the helipad with solar panels to harness solar energy, ensuring a sustainable and uninterrupted power supply for the helipad's operations, especially useful in remote or off-grid locations.
