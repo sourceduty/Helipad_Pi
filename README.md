@@ -47,4 +47,8 @@ The Helipad_Pi project aims to create an advanced, tech-equipped helipad specifi
 
 ***
 
+![DJI](https://github.com/sourceduty/Helipad_Pi/assets/123030236/0a568142-24e8-4524-864e-3a4c70079921)
+[DJI Dock](https://enterprise.dji.com/dock)
+
+***
 🛈 This software is free and open-source; anyone can redistribute it and/or modify it.
